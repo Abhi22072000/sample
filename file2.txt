@@ -2,3 +2,5 @@ unix git
 github
 git
 learning git hub
+needed some morre changes to be made 
+chnages are made and saved 
